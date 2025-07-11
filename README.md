@@ -5,7 +5,7 @@
 
 ## What is this addon for?
 
-**Blender Batch Texture Exporter** addon allows you to export textures from selected objects in a scene, copying or creating symlinks to the textures in a specified directory. Perfect for asset management and sharing projects with clean texture organization!
+**[<ins>Blender</ins>](https://www.blender.org/) Batch Texture Exporter** addon allows you to export textures from selected objects in a scene, copying or creating symlinks to the textures in a specified directory. Perfect for asset management and sharing projects with clean texture organization!
 
 - **Texture Tracking**  
   Creates symlinks that point to original texture locations, helping you:
@@ -24,7 +24,7 @@
 ## ✨ Features
 
 - **Octane Render Support**  
-  Works with both standard Blender and `Octane Blender Edition` `IMAGE` nodes.
+  Works with both standard [<ins>Blender</ins>](https://www.blender.org/) and [<ins>Octane Blender Edition</ins>](https://home.otoy.com/render/octane-render/) `IMAGE` nodes.
 
 - **Select multiple objects**  
   Export textures for one or multiple selected objects in the scene.
@@ -56,7 +56,7 @@
 
 ## 📦 Installation
 
-1. Download the latest `BTX_BatchTextureExporter.zip` from [Releases](https://github.com/LocalDataBase/BTX/releases)
+1. Download the latest `BTX_BatchTextureExporter.zip` from [<ins>Releases</ins>](https://github.com/LocalDataBase/BTX/releases)
 2. In Blender:
    - `Edit` → `Preferences` → `Add-ons`
    - Click `Install...` and select the downloaded file
