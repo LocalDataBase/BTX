@@ -21,7 +21,7 @@
 
 >![BTX_ui](https://qu.ax/NKapF.png)
 
-## ✨ Features
+## Features
 
 - **Octane Render Support**  
   Works with both standard [<ins>Blender</ins>](https://www.blender.org/) and [<ins>Octane Blender Edition</ins>](https://home.otoy.com/render/octane-render/) `IMAGE` nodes.
@@ -54,7 +54,7 @@
   Processes textures from node-based materials in `MESH` and `FONT` objects.
 
 
-## 📦 Installation
+## Installation
 
 1. Download the latest `BTX_BatchTextureExporter.zip` from [<ins>Releases</ins>](https://github.com/LocalDataBase/BTX/releases)
 2. In Blender:
@@ -65,7 +65,7 @@
 > **Supported Blender Versions:** 2.80, 2.90, 3.0+, 4.0+  
 > *(Tested on 3.6 LTS/4.3.2)*
 
-## 🛠 Usage
+## Usage
 
 > [!NOTE]
 >Addon **only works with unpacked .blend files**:
