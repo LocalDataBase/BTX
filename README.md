@@ -16,9 +16,10 @@
   Exported textures **don't replace originals** in your material nodes - they're copied to your specified location while keeping original node paths intact.
 
 ---
-
+### `Problem?`
 >![Q1](https://qu.ax/jjpyn.jpg)
 
+### `Solution!`
 >![BTX_ui](https://qu.ax/NKapF.png)
 
 ## Features
